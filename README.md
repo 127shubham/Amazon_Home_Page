@@ -26,7 +26,7 @@ To use this project locally, follow these steps:
 
 1. Clone the repository using the following command:
    ```
-   git clone https://github.com
+   git clone https://github.com/127shubham/Amazon_Home_Page/tree/master
    ```
 
 2. Open the HTML file(s) in your preferred web browser to view the web page.
